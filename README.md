@@ -38,8 +38,6 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | :--- |
 | Connect Front-end to Back-End  | 
 | Final Project |
-| Final Project | 
-| Final Project  |
 | Presentation   |
 
 ## What We Expect From You
