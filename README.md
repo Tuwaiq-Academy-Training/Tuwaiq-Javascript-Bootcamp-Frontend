@@ -2,7 +2,7 @@
 |:----:|:---:|:------:|:---:|:--------:|
 | Week1| 1   |[HTML-CSS-Lesson](https://github.com/Tuwaiq-JavaScript/HTML-CSS-Lesson)|[HTML-CSS-Lap](https://github.com/Tuwaiq-JavaScript/HTML-CSS-Lap)|[HTML-CSS-HW](https://github.com/Tuwaiq-JavaScript/HTML-CSS-HW)
 | Week1| 2   |[Advanced-CSS-Bootstrap-Lesson](https://github.com/Tuwaiq-JavaScript/Advanced-CSS-Bootstrap-Lesson)|[Advanced-CSS-Bootstrap-Lab](https://github.com/Tuwaiq-JavaScript/Advanced-CSS-Bootstrap-Lab)|[Advanced-CSS-Bootstrap-HW](https://github.com/Tuwaiq-JavaScript/Advanced-CSS-Bootstrap-HW)
-| Week1| 3   |
+| Week1| 3   |[JavaScript-Fundamentals-Lesson](https://github.com/Tuwaiq-JavaScript/JavaScript-Fundamentals-Lesson)|[JavaScript-Fundamentals-Lab](https://github.com/Tuwaiq-JavaScript/JavaScript-Fundamentals-Lab)|[JavaScript-Fundamentals-HW](https://github.com/Tuwaiq-JavaScript/JavaScript-Fundamentals-HW)
 | Week1| 4   |
 | Week1| 5   |
 | Week2| 1   |
