@@ -26,8 +26,8 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 
 ## Unit 2 \(Web Development with React \)
 
-| Week | Topics |
-| :--- | :--- |
+| Topics |
+| :--- |
 | Advanced JS, React,JSX, Redux |
 | Axios, Jest, Node, NPM|
 | Project 2 |
