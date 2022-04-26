@@ -1,6 +1,6 @@
 | Week | Day | Lesson | Lap | HomeWork |
 |:----:|:---:|:------:|:---:|:--------:|
-| Week1| 1   |:------:|:[HTML-CSS-Lap](https://github.com/Tuwaiq-JavaScript/HTML-CSS-Lap):|
+| Week1| 1   |[HTML-CSS-Lesson](https://github.com/Tuwaiq-JavaScript/HTML-CSS-Lesson)|[HTML-CSS-Lap](https://github.com/Tuwaiq-JavaScript/HTML-CSS-Lap)|[HTML-CSS-HW](https://github.com/Tuwaiq-JavaScript/HTML-CSS-HW)
 | Week1| 2   |
 | Week1| 3   |
 | Week1| 4   |
