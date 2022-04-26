@@ -6,9 +6,9 @@
 | Week1| 4   |[Advanced-JavaScript-Lesson](https://github.com/Tuwaiq-JavaScript/Advanced-JavaScript-Lesson)|[Advanced-JavaScript-Lab](https://github.com/Tuwaiq-JavaScript/Advanced-JavaScript-Lab)|[Advanced-JavaScript-HW](https://github.com/Tuwaiq-JavaScript/Advanced-JavaScript-HW)
 | Week1| 5   |[Week-One-Project](https://github.com/Tuwaiq-JavaScript/Week-One-Project)|[Week-One-Project](https://github.com/Tuwaiq-JavaScript/Week-One-Project) | [Week-One-Project](https://github.com/Tuwaiq-JavaScript/Week-One-Project)
 | Week2| 1   |[React-Fundamentals-Lesson](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-Lesson)|[React-Fundamentals-Lab](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-Lab)|[React-Fundamentals-HW](https://github.com/Tuwaiq-JavaScript/React-Fundamentals-HW)
-| Week2| 2   |
-| Week2| 3   |
-| Week2| 4   |
+| Week2| 2   |[React-Styling-Routing-Lesson](https://github.com/Tuwaiq-JavaScript/React-Styling-Routing-Lesson)|[React-Styling-Routing-Lab](https://github.com/Tuwaiq-JavaScript/React-Styling-Routing-Lab)|[React-Styling-Routing-HW](https://github.com/Tuwaiq-JavaScript/React-Styling-Routing-HW)
+| Week2| 3   |[React-Components-Life-Cycle-Hooks-Lesson](https://github.com/Tuwaiq-JavaScript/React-Components-Life-Cycle-Hooks-Lesson)|[React-Components-Life-Cycle-Hooks-Lab](https://github.com/Tuwaiq-JavaScript/React-Components-Life-Cycle-Hooks-Lab)|[React-Components-Life-Cycle-Hooks-HW](https://github.com/Tuwaiq-JavaScript/React-Components-Life-Cycle-Hooks-HW)
+| Week2| 4   |[React-State-Management-Lesson](https://github.com/Tuwaiq-JavaScript/React-State-Management-Lesson)|[React-State-Management-Lab](https://github.com/Tuwaiq-JavaScript/React-State-Management-Lab)|[React-State-Management-HW](https://github.com/Tuwaiq-JavaScript/React-State-Management-HW)
 | Week2| 5   |
 | Week3| 1   |
 | Week3| 2   |
