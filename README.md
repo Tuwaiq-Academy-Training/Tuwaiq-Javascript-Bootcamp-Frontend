@@ -1,3 +1,60 @@
+# Front-End Web Development Bootcamp 4-Weeks 
+Hi Everyone, Welcome to Front-End bootcamp. This repository contains informations, labs, homeworks, projects and lessons specific to your course.
+
+## Schedule
+|  | Days | Time |
+| --- | ------------- | ------------- |
+| Class | Sun - Thurs  | 9am - 5pm  |
+
+## Instructional Team
+* Abdullah Alsabi (Lead Instructor)
+  * [a.alsabi@safcsp.org.sa](mailto:a.alsabi@safcsp.org.sa
+)
+
+* Masha Aldosari (Lead Instructor)
+  * [m.aldosary@safcsp.org.sa](mailto:m.aldosary@safcsp.org.sa)
+
+
+## Unit 1 \(Web Development Essentials \)
+
+| Topics |
+| :--- |
+| HTML, CSS |
+| JavaScript, DOM, JSON, API |
+| Project 1 | 
+
+
+## Unit 2 \(Web Development with React \)
+
+| Week | Topics |
+| :--- | :--- |
+| Advanced JS, React,JSX, Redux |
+| Axios, Jest, Node, NPM|
+| Project 2 |
+
+## Unit 3 \(Full Stack Web Application \)
+
+| Topics |
+| :--- |
+| Connect Front-end to Back-End  | 
+| Final Project |
+| Final Project | 
+| Final Project  |
+| Presentation   |
+
+## What We Expect From You
+### Graduation Requirements
+* Complete and submit all assignments.
+* Maintain consistent attendance.
+* Complete and submit the all projects.
+### Additional Expectations
+* Be present.
+* Contribute constructively.
+* Work hard.
+* Ask questions.
+* Be supportive.
+* Talk to us
+
 | Week | Day | Lesson | Lap | HomeWork |
 |:----:|:---:|:------:|:---:|:--------:|
 | Week1| 1   |[HTML-CSS-Lesson](https://github.com/Tuwaiq-JavaScript/HTML-CSS-Lesson)|[HTML-CSS-Lap](https://github.com/Tuwaiq-JavaScript/HTML-CSS-Lap)|[HTML-CSS-HW](https://github.com/Tuwaiq-JavaScript/HTML-CSS-HW)
