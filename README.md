@@ -1,4 +1,4 @@
-# Front-End Web Development Bootcamp 4-Weeks 
+# ReactJS Web Development Bootcamp 4-Weeks 
 Hi Everyone, Welcome to Front-End bootcamp. This repository contains informations, labs, homeworks, projects and lessons specific to your course.
 
 ## Schedule
