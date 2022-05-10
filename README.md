@@ -6,13 +6,6 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | --- | ------------- | ------------- |
 | Class | Sun - Thurs  | 9am - 5pm  |
 
-## Instructional Team
-* Abdullah Alsabi (Lead Instructor)
-  * [a.alsabi@safcsp.org.sa](mailto:a.alsabi@safcsp.org.sa
-)
-
-* Masha Aldosari (Lead Instructor)
-  * [m.aldosary@safcsp.org.sa](mailto:m.aldosary@safcsp.org.sa)
 
 
 ## Unit 1 \(Web Development Essentials \)
