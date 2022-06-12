@@ -22,7 +22,7 @@ Hi Everyone, Welcome to Front-End bootcamp. This repository contains information
 | Topics |
 | :--- |
 | Advanced JS, React,JSX, Redux |
-| Axios, Jest, Node, NPM|
+| Axios, Node, NPM|
 | Project 2 |
 
 ## Unit 3 \(Full Stack Web Application \)
